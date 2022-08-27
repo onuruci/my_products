@@ -3,7 +3,7 @@
 
 # World Cup Predict
 
-![Screenshot](WorlCup.png | width173)
+![Screenshot](WorlCup.png | width=173)
 
 Explanation: 
   World Cup Prediction App and Statistics Platform. Where users can both predict and also observe what other people
