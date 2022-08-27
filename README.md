@@ -3,8 +3,8 @@
 
 # World Cup Predict
 
-![image](WorlCup.png)
-<img src="WorlCup.png"/>
+<div style="text-align:center"><img src="WorlCup.png"/></div>
+
 
 Explanation: 
   World Cup Prediction App and Statistics Platform. Where users can both predict and also observe what other people
