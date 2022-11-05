@@ -3,7 +3,7 @@
 
 # World Cup Predict
 
-<p align="center" width="100%"><img align="center" src="WorldCup.png"/></p>
+<div align="center" width="40px"><img align="center" src="WorldCup.png"/></div>
 
 
 Explanation: 
