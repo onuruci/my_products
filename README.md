@@ -2,7 +2,7 @@
 
 # World Cup Predict
 
-<p align="center" width="100%"><img align="center" src="WorldCup.png"/></p>
+<p align="center" width="80%"><img align="center" src="WorldCup.png"/></p>
 
 Explanation:
 World Cup Prediction App and Statistics Platform. Where users can both predict and also observe what other people
